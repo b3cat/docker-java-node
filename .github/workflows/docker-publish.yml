@@ -33,4 +33,4 @@ jobs:
         with:
           context: 11/jre/14
           push: true
-          tags: snusbro/java-node:11-jre-14
+          tags: snusbro/java-node:11-jre-14-v1
